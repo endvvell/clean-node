@@ -1,0 +1,162 @@
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:45:12.457Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:45:23.976Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:47:04.109Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:47:05.140Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:47:10.585Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:47:16.179Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:47:19.168Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:47:26.805Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:47:35.440Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:47:37.174Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:48:00.026Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:48:22.131Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:48:32.882Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T10:48:34.740Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T11:56:18.828Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T11:59:29.092Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:01:20.441Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:01:23.689Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:01:26.101Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:01:30.130Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:03:49.798Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:07:48.408Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:07:49.790Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:08:03.234Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:08:04.267Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:08:12.943Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:08:29.253Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:08:46.177Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:08:56.424Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:09:16.317Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:09:29.953Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:09:30.946Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:09:33.187Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:09:36.027Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:09:54.500Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:10:15.987Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:12:45.393Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:12:48.632Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:12:49.953Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:12:52.977Z"}
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T12:13:50.456Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:13:50.963Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:13:52.020Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:14:25.678Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:14:56.006Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:14:59.648Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:15:04.259Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:15:06.530Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:15:21.648Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:15:37.198Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:16:00.606Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:16:01.784Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:16:47.289Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:16:50.754Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:16:53.863Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:16:58.555Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:17:17.205Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:18:02.433Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:18:06.068Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:18:09.890Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:18:19.384Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:18:37.085Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:18:45.029Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:18:46.297Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:18:47.359Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:18:49.017Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:18:52.647Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:18:54.418Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:19:28.730Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:19:49.882Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:19:53.130Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:20:04.108Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:20:05.475Z"}
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T12:22:48.941Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:22:48.959Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:22:48.961Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:22:48.971Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:22:48.972Z"}
+{"level":"error","message":"Error while deleting a user (use case): Error: no user found","timestamp":"2022-09-23T12:22:48.974Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:25:03.875Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:25:07.210Z"}
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T12:25:25.312Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:25:25.334Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:25:25.337Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:25:25.342Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:25:25.343Z"}
+{"level":"error","message":"Error while deleting a user (use case): Error: no user found","timestamp":"2022-09-23T12:25:25.345Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:25:32.705Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:30:28.060Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:30:35.145Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:30:42.203Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:30:44.351Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:30:48.286Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:30:50.458Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:30:52.855Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:30:56.985Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:30:59.990Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:31:10.436Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:31:14.714Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:31:19.550Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T12:31:23.775Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:52:32.516Z"}
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T12:52:43.337Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:52:43.355Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:52:43.356Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:52:43.358Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:52:43.359Z"}
+{"level":"error","message":"Error while deleting a user (use case): Error: no user found","timestamp":"2022-09-23T12:52:43.362Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.358Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.362Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.366Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.367Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.370Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.371Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.376Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.376Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.381Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.381Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.384Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.385Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.390Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.390Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.394Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.394Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.399Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.400Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.405Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.405Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.410Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.410Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.414Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.414Z"}
+{"level":"error","message":"(TEST) Error while trying to delete a user in \"afterAll\": [object Object]","timestamp":"2022-09-23T12:52:44.415Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:54:22.644Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:54:24.777Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:54:43.092Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:54:44.703Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:55:03.830Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:55:06.721Z"}
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T12:57:12.960Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:57:12.977Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:57:12.978Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:57:12.980Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:57:12.981Z"}
+{"level":"error","message":"Error while deleting a user (use case): Error: no user found","timestamp":"2022-09-23T12:57:12.983Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:59:45.064Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:59:46.205Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T12:59:56.969Z"}
+{"level":"info","message":"Database in use: postgres","timestamp":"2022-09-23T13:00:00.816Z"}
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T13:06:24.519Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:24.532Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:24.533Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:24.537Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:24.538Z"}
+{"level":"error","message":"Error while deleting a user (use case): Error: no user found","timestamp":"2022-09-23T13:06:24.541Z"}
+{"level":"info","message":"Database in use: mongodb","timestamp":"2022-09-23T13:06:44.396Z"}
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T13:06:47.876Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:47.888Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:47.889Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:47.890Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:47.891Z"}
+{"level":"error","message":"Error while deleting a user (use case): Error: no user found","timestamp":"2022-09-23T13:06:47.893Z"}

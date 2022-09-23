@@ -1,0 +1,62 @@
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T12:13:50.456Z"}
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T12:22:48.941Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:22:48.959Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:22:48.961Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:22:48.971Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:22:48.972Z"}
+{"level":"error","message":"Error while deleting a user (use case): Error: no user found","timestamp":"2022-09-23T12:22:48.974Z"}
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T12:25:25.312Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:25:25.334Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:25:25.337Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:25:25.342Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:25:25.343Z"}
+{"level":"error","message":"Error while deleting a user (use case): Error: no user found","timestamp":"2022-09-23T12:25:25.345Z"}
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T12:52:43.337Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:52:43.355Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:52:43.356Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:52:43.358Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:52:43.359Z"}
+{"level":"error","message":"Error while deleting a user (use case): Error: no user found","timestamp":"2022-09-23T12:52:43.362Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.358Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.362Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.366Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.367Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.370Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.371Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.376Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.376Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.381Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.381Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.384Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.385Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.390Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.390Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.394Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.394Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.399Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.400Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.405Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.405Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.410Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.410Z"}
+{"level":"error","message":"Error while getting one entry from users table: Error: \nInvalid `prisma.users.findFirst()` invocation:\n\n\nThe column `users.password` does not exist in the current database.","timestamp":"2022-09-23T12:52:44.414Z"}
+{"level":"error","message":"Error while getting a user (use case): [object Object]","timestamp":"2022-09-23T12:52:44.414Z"}
+{"level":"error","message":"(TEST) Error while trying to delete a user in \"afterAll\": [object Object]","timestamp":"2022-09-23T12:52:44.415Z"}
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T12:57:12.960Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:57:12.977Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: whatever","timestamp":"2022-09-23T12:57:12.978Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:57:12.980Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: whatever","timestamp":"2022-09-23T12:57:12.981Z"}
+{"level":"error","message":"Error while deleting a user (use case): Error: no user found","timestamp":"2022-09-23T12:57:12.983Z"}
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T13:06:24.519Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:24.532Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:24.533Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:24.537Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:24.538Z"}
+{"level":"error","message":"Error while deleting a user (use case): Error: no user found","timestamp":"2022-09-23T13:06:24.541Z"}
+{"level":"error","message":"Error while getting a user (use case): Error: Invalid Field","timestamp":"2022-09-23T13:06:47.876Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:47.888Z"}
+{"level":"error","message":"Error while creating new user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:47.889Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:47.890Z"}
+{"level":"error","message":"Error while updating a user (use case): Error: (From test) whatever","timestamp":"2022-09-23T13:06:47.891Z"}
+{"level":"error","message":"Error while deleting a user (use case): Error: no user found","timestamp":"2022-09-23T13:06:47.893Z"}
