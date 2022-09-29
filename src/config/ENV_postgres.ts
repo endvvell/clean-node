@@ -10,4 +10,4 @@ export const {
 
 // postgresql://USER:PASSWORD@HOST:PORT/DATABASE
 
-// the variables in this file aren't actually used since Prisma use only those in .env file in the root of the project, but I'll leave them be in case I ever decide to use 
+// the variables in this file aren't actually used since Prisma uses only those in .env file in the root of the project, but I'll leave them be in case I ever decide to use them. 
